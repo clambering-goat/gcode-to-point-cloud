@@ -4,6 +4,7 @@ metadata:
   name: gcode-to-point-cloud
   annotations:
     github.com/project-slug: clambering-goat/gcode-to-point-cloud
+    circleci.com/project-slug: clambering-goat/gcode-to-point-cloud
 spec:
   type: other
   lifecycle: unknown
