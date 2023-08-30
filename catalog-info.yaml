@@ -2,7 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: gcode-to-point-cloud
+  annotations:
+    github.com/project-slug: clambering-goat/gcode-to-point-cloud
 spec:
   type: other
   lifecycle: unknown
-  owner: guests
